@@ -1,2 +1,2 @@
-Meu novo arquivo.
-segunda linha
+Meu novo arquivo
+quarta alteração
